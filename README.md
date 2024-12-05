@@ -12,7 +12,30 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
   - Métricas de Negócios e Testes de Hipóteses;
   - Fundamentos de Machine Learning: conceitos iniciais de aprendizado de máquina.
 
-## Ferramentas e Tecnologias
+Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
+
+--------  
+
+## Hello!  
+  
+I’m Clara Álvares.  
+I am an Architect and Urban Planner, graduated from the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
+  
+Throughout this journey, I have developed projects that allowed me to apply and enhance skills such as:  
+  
+  - Data Analysis: preprocessing, exploratory analysis, and statistical analysis;
+  - Python: automation and data manipulation;
+  - Data Visualization: creating interactive charts and dashboards;
+  - SQL: data extraction and manipulation;
+  - API integration and online data collection;
+  - Business Metrics and Hypothesis Testing;
+  - Fundamentals of Machine Learning: introductory concepts of machine learning.
+  
+I am excited to combine my experience in projects and design with the transformative power of data analysis, contributing to creative solutions based on strategic insights.  
+
+--------  
+
+## Ferramentas e Tecnologias / Tools and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -35,33 +58,13 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 ![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 
 
-## 📫 Contato
+## Contato / Contact
 
 - [![Email](https://img.shields.io/badge/-claraalvarescamargo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claraalvarescamargo@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-Clara%20Álvares-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username)
 - [![WhatsApp](https://img.shields.io/badge/-%2B55%2061%20981715951-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561981715951?text=Olá!+Gostaria+de+entrar+em+contato.)
 
 
-Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
-
---------  
-
-## Hello!  
-  
-I’m Clara Álvares.  
-I am an Architect and Urban Planner, graduated from the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
-  
-Throughout this journey, I have developed projects that allowed me to apply and enhance skills such as:  
-  
-  - Data Analysis: preprocessing, exploratory analysis, and statistical analysis;
-  - Python: automation and data manipulation;
-  - Data Visualization: creating interactive charts and dashboards;
-  - SQL: data extraction and manipulation;
-  - API integration and online data collection;
-  - Business Metrics and Hypothesis Testing;
-  - Fundamentals of Machine Learning: introductory concepts of machine learning.
-  
-I am excited to combine my experience in projects and design with the transformative power of data analysis, contributing to creative solutions based on strategic insights.
 <!--
 **claraalvares/claraalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
