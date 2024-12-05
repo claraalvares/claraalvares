@@ -10,7 +10,17 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
   - SQL: extração e manipulação de dados;
   - Integração com APIs e coleta de dados online;
   - Métricas de Negócios e Testes de Hipóteses;
-  - Fundamentos de Machine Learning: conceitos iniciais de aprendizado de máquina.  
+  - Fundamentos de Machine Learning: conceitos iniciais de aprendizado de máquina.
+
+## Ferramentas e Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
   
 Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
 
