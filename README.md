@@ -44,6 +44,24 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 
 Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
 
+--------  
+
+## Hello!  
+  
+I’m Clara Álvares.  
+I am an Architect and Urban Planner, graduated from the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
+  
+Throughout this journey, I have developed projects that allowed me to apply and enhance skills such as:  
+  
+  - Data Analysis: preprocessing, exploratory analysis, and statistical analysis;
+  - Python: automation and data manipulation;
+  - Data Visualization: creating interactive charts and dashboards;
+  - SQL: data extraction and manipulation;
+  - API integration and online data collection;
+  - Business Metrics and Hypothesis Testing;
+  - Fundamentals of Machine Learning: introductory concepts of machine learning.
+  
+I am excited to combine my experience in projects and design with the transformative power of data analysis, contributing to creative solutions based on strategic insights.
 <!--
 **claraalvares/claraalvares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
