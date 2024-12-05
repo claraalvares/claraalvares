@@ -1,4 +1,4 @@
-## Olá! 👋  
+## Olá!
   
 Eu sou Clara Álvares.  
 Sou Arquiteta e Urbanista formada pela Universidade de Brasília (UnB). Com mais de 5 anos de experiência em desenvolvimento de projetos de arquitetura e design, estou em transição de carreira para atuar como Analista de Dados. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB) e recentemente concluí um bootcamp em Análise de Dados.  
