@@ -27,9 +27,9 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 
 ## 📫 Contato
 
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claraalvarescamargo@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-álvares-53296a164)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561981715951?text=Olá!+Gostaria+de+entrar+em+contato.)
+- [![claraalvarescamargo@gmail.com](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claraalvarescamargo@gmail.com)
+- [![Clara Álvares](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-álvares-53296a164)
+- [![+55 (61) 981715951](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561981715951?text=Olá!+Gostaria+de+entrar+em+contato.)
 
 
   
