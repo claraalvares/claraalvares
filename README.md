@@ -17,6 +17,7 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -24,8 +25,15 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?style=flat&logo=autodesk&logoColor=white)
+![Archicad](https://img.shields.io/badge/-Archicad-0038A8?style=flat&logo=graphisoft&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white)
+![Enscape](https://img.shields.io/badge/-Enscape-FF8C00?style=flat&logo=enscape&logoColor=white)
+![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 
-## 📫 Contato
 
 ## 📫 Contato
 
