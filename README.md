@@ -23,7 +23,14 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+
+## 📫 Contato
+
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:claraalvarescamargo@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clara-álvares-53296a164)
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561981715951?text=Olá!+Gostaria+de+entrar+em+contato.)
+
 
   
 Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
