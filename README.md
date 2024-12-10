@@ -19,7 +19,7 @@ Estou entusiasmada para unir minha experiência em projetos e design com o poder
 ## Hello!  
   
 I’m Clara Álvares.  
-I am an Architect and Urban Planner, graduated from the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
+I am an Architect and Urban Planner, graduated at the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
   
 Throughout this journey, I have developed projects that allowed me to apply and enhance skills such as:  
   
