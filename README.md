@@ -12,7 +12,8 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
   - Métricas de Negócios e Testes de Hipóteses;
   - Fundamentos de Machine Learning: conceitos iniciais de aprendizado de máquina.
 
-Estou entusiasmada para unir minha experiência em projetos e design com o poder transformador da análise de dados, contribuindo para soluções criativas e baseadas em informações estratégicas.  
+Ao longo da minha carreira como arquiteta, desenvolvi habilidades sólidas em resolução de problemas, combinando criatividade com conhecimento técnico.
+Meu objetivo é integrar meu perfil criativo ao poder da análise de dados para desenvolver soluções inovadoras e orientadas por dados, capazes de resolver desafios complexos de forma eficiente e estratégica.
 
 --------  
 
@@ -31,7 +32,8 @@ Throughout this journey, I have developed projects that allowed me to apply and 
   - Business Metrics and Hypothesis Testing;
   - Fundamentals of Machine Learning: introductory concepts of machine learning.
   
-I am excited to combine my experience in projects and design with the transformative power of data analysis, contributing to creative solutions based on strategic insights.  
+Throughout my career as an architect, I have developed strong problem-solving skills, combining creativity with technical knowledge.
+My goal is to integrate my creative profile with the power of data analysis to develop innovative, data-driven solutions capable of solving complex challenges efficiently and strategically.
 
 --------  
 
