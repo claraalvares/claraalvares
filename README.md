@@ -5,7 +5,7 @@ Sou Arquiteta e Urbanista formada pela Universidade de Brasília (UnB). Com mais
   
 Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimorar habilidades como:  
   - Análise de Dados: pré-processamento, análise exploratória, e análise estatística;
-  - Linguagem Python: automação e manipulação de dados;
+  - Python: automação e manipulação de dados;
   - Visualização de Dados: criação de gráficos e dashboards interativos;
   - SQL: extração e manipulação de dados;
   - Integração com APIs e coleta de dados online;
