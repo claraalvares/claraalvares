@@ -1,9 +1,9 @@
 ## Olá!
   
 Eu sou Clara Álvares.  
-Sou Arquiteta e Urbanista formada pela Universidade de Brasília (UnB). Com mais de 5 anos de experiência em desenvolvimento de projetos de arquitetura e design, estou em transição de carreira para atuar como Analista de Dados. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB) e recentemente concluí um bootcamp em Análise de Dados.  
+Sou Analista de Dados. Em 2024 participei do bootcamp de Análise de Dados da TripleTen e atualmente estou cursando minha segunda graduação, em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília (UCB). Minha primeira graduação é em Arquitetura e Urbanismo pela Universidade de Brasília (UnB). 
   
-Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimorar habilidades como:  
+Ao longo da minha formação, desenvolvi projetos que me permitiram aplicar e aprimorar habilidades como:  
   - Análise de Dados: pré-processamento, análise exploratória, e análise estatística;
   - Python: automação e manipulação de dados;
   - Visualização de Dados: criação de gráficos e dashboards interativos;
@@ -12,16 +12,16 @@ Ao longo dessa jornada, desenvolvi projetos que me permitiram aplicar e aprimora
   - Métricas de Negócios e Testes de Hipóteses;
   - Fundamentos de Machine Learning: conceitos iniciais de aprendizado de máquina.
 
-Na minha carreira como arquiteta, desenvolvi habilidades sólidas em resolução de problemas, combinando criatividade com conhecimento técnico. Meu objetivo é integrar meu perfil criativo ao poder da análise de dados para desenvolver soluções inovadoras capazes de resolver desafios complexos de forma eficiente e estratégica.
+Na minha carreira como arquiteta, desenvolvi habilidades sólidas em resolução de problemas, combinando criatividade e técnica. Meu objetivo é integrar meu perfil criativo ao poder da análise de dados para desenvolver soluções inovadoras capazes de resolver desafios complexos de forma eficiente e estratégica.
 
 --------  
 
 ## Hello!  
   
 I’m Clara Álvares.  
-I am an Architect and Urban Planner, graduated at the University of Brasília (UnB). With over 5 years of experience in architecture and design projects, I am currently transitioning my career to work as a Data Analyst. I am studying Systems Analysis and Development at the Catholic University of Brasília (UCB) and have recently completed a Data Analysis bootcamp.  
-  
-Throughout this journey, I have developed projects that allowed me to apply and enhance skills such as:  
+I am a Data Analyst. In 2024, I participated in the TripleTen Data Analytics bootcamp, and I am currently pursuing my second degree in Systems Analysis and Development at the Catholic University of Brasília (UCB). My first degree is in Architecture and Urbanism from the University of Brasília (UnB).  
+
+Throughout my education, I have worked on projects that allowed me to apply and refine skills such as: 
   
   - Data Analysis: preprocessing, exploratory analysis, and statistical analysis;
   - Python: automation and data manipulation;
@@ -31,7 +31,8 @@ Throughout this journey, I have developed projects that allowed me to apply and 
   - Business Metrics and Hypothesis Testing;
   - Fundamentals of Machine Learning: introductory concepts of machine learning.
   
-In my career as an architect, I developed solid problem-solving skills by combining creativity with technical expertise. My goal is to integrate my creative profile with the power of data analysis to develop innovative solutions capable of solving complex challenges efficiently and strategically.
+In my career as an architect, I developed strong problem-solving skills by combining creativity and technical expertise.  
+My goal is to integrate my creative background with the power of data analysis to develop innovative solutions capable of solving complex challenges efficiently and strategically.
 
 --------  
 
